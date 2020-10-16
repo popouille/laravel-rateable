@@ -9,13 +9,13 @@
         "fivestar",
         "laravel 7"
     ],
-    "homepage": "https://github.com/willvincent/laravel-rateable",
+    "homepage": "https://github.com/popouille/laravel-rateable",
     "license": "MIT",
     "authors": [
         {
-            "name": "Will Vincent",
-            "email": "tcindie@gmail.com",
-            "homepage": "https://willvincent.com"
+            "name": "",
+            "email": "",
+            "homepage": ""
         }
     ],
     "require": {
