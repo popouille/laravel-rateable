@@ -32,12 +32,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Popouille\\Rateable\\": "src"
+            "willvincent\\Rateable\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Popouille\\Rateable\\Tests\\": "tests"
+            "willvincent\\Rateable\\Tests\\": "tests"
         }
     },
     "scripts": {
@@ -52,7 +52,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Popouille\\Rateable\\RateableServiceProvider"
+                "willvincent\\Rateable\\RateableServiceProvider"
             ]
         }
     },
